@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
   <head>
     <title>mi primera vez manejando commits y me pone feliz</title>
@@ -6,3 +7,6 @@
 	<h1>hola acaso sabemos programar jeje</h2>
   </body>
 </html>
+=======
+hola como esta, sera una prueba para la marter
+>>>>>>> master
